@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461797949 source:c:\users\carlos chinchilla\documents\u\progra sistemas\num4o+\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+

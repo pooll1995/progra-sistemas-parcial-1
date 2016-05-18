@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462144475 source:c:\users\carlos chinchilla\documents\u\progra sistemas\numrango\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

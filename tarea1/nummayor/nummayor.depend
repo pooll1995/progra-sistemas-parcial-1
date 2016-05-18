@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1461712420 source:c:\users\carlos chinchilla\documents\u\progra sistemas\nummayor\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1462133692 source:c:\users\carlos chinchilla\documents\u\progra sistemas\tarea1\nummayor\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

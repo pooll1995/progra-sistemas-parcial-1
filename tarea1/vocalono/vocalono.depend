@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462142375 source:c:\users\carlos chinchilla\documents\u\progra sistemas\vocalono\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
