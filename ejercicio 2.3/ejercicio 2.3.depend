@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463368980 source:c:\users\carlos chinchilla\documents\u\progra sistemas\ejercicio 2.3\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

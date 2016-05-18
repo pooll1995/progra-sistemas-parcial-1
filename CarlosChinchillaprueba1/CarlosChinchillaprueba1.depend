@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462402892 source:c:\users\carlos chinchilla\documents\u\progra sistemas\carloschinchillaprueba1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
