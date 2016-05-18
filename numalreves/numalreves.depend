@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462146607 source:c:\users\carlos chinchilla\documents\u\progra sistemas\numalreves\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

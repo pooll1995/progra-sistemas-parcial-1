@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461772920 source:c:\users\daniel jab\desktop\programacion de sistemas\numero_diadelasemana\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
